@@ -16,6 +16,7 @@ This is an app where you can search for movies via the OMDb API. This app is cre
 <h4>Problems Encountered</h4>
   <ul>
     <li> API Key in .env file returning undefined -> fixed by adding REACT_APP_ prefix to .env variable
+    <li> On deployment, API fetching from wrong URL (Work in progress)
   </ul>
 
 <h4>Improvements to Add</h4>
