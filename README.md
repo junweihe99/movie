@@ -5,6 +5,7 @@ This is an app where you can search for movies via the OMDb API. This app is cre
 <h4>Features</h4>
   <ul>
     <li> Search OMDb API for movies via movie titles
+    <li> Fully responsive website
   </ul>
 
 <h4>Lessons Learned</h4>
