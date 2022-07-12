@@ -15,12 +15,10 @@ This is an app where you can search for movies via the OMDb API. This app is cre
   
 <h4>Problems Encountered</h4>
   <ul>
-    <li> 
   </ul>
 
 <h4>Improvements to Add</h4>
   <ul>
-    <li> 
   </ul>
 
 <h4>Credits</h4>
